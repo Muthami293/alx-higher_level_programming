@@ -1,5 +1,6 @@
-
-dule 102-square
+#!/usr/bin/python3
+"""
+Module 102-square
 Defines class Square with private size and public area
 Can access and update size
 """
