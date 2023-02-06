@@ -14,4 +14,3 @@ class MyInt(int):
     def __ne__(self, other):
         """ Method that returns == check """
         return int.__eq__(self, other)
-
